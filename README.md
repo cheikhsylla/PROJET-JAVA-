@@ -1,3 +1,3 @@
 # PROJET-JAVA-
-CHENILLE GAME 
+Chenille and Snake game in java
 TO RUN IT PLEASE COMPILE AppliChenille.java...
